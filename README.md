@@ -1,2 +1,3 @@
 # hello-world
-just beginning
+Hello humans,
+welcome to my world
